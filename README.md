@@ -10,4 +10,7 @@
 - [X]  ESRGAN
 
 ref: https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs
+
+some pretrained weight: https://github.com/aladdinpersson/Machine-Learning-Collection/releases/tag/1.0
+
 more: https://github.com/eriklindernoren/PyTorch-GAN
